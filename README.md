@@ -8,7 +8,10 @@ Upload and run program:
 -   Press compile and upload with the servo-lab unit connected to bluetooth or a USB-port    
   
   
-If encoder positions to the floors needs to be changed to match distance between floors, this can be done inside the floorPosition[] array in the private part of the class ElevatorControl in ElevatorMainProgram.ino file. Default is first floor at 0, 2nd floor at 16640 and 3rd floor at 33280.  
+If encoder positions to the floors needs to be changed to match distance between floors, this can be done inside the floorPosition[] array in the private part of the class ElevatorControl in ElevatorMainProgram.ino file. Default positions is set to: 
+-   first floor at 0
+-   2nd floor at 16640
+-   3rd floor at 33280  
   
   
 The 4 leftmost buttons (7-4) on the servo-lab unit represents the 4 floor buttons where you got UP first floor, DOWN second floor, UP second floor and DOWN third floor.  
