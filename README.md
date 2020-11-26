@@ -22,5 +22,4 @@ There is also a "load sensor" which is simulated by the anlalog potmeter knob on
 when the door is open and it will run in to overload state as the weight passes 800 kg.
 
 Emergency state is activated by pressing down the left encoder knob when elevator is moving. This is connected  
-with an interrupt entering the emergency state, which stops all movement, clears all requests and moves downwards  
-to the nearest floor.
+with an interrupt entering the emergency state, which stops all movement, clears all requests and moves downwards to the nearest floor.
