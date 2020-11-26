@@ -21,6 +21,3 @@ when the door is open and it will run in to overload state as the weight passes 
 Emergency state is activated by pressing down the left encoder knob when elevator is moving. This is connected  
 with an interrupt entering the emergency state, which stops all movement, clears all requests and moves downwards  
 to the nearest floor.
-
-
-The video file is a demonstratin of the functionality of our program on the servo-lab unit.
