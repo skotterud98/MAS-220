@@ -15,6 +15,9 @@ Default is first floor at 0, 2nd floor at 16640 and 3rd floor at 33280.
 The 4 leftmost buttons (7-4) on the servo-lab unit represents the 4 floor buttons where you got UP first floor,  
 DOWN second floor, UP second floor and DOWN third floor.  
 
+Next 3 buttons (3-1) represents the three floor buttons inside the elevator "cage", where button #3 is first floor, 
+button #2 is second floor and button #1 is third floor.
+
 There is also a "load sensor" which is simulated by the anlalog potmeter knob on the right. Turn it clockwise  
 when the door is open and it will run in to overload state as the weight passes 800 kg.
 
