@@ -4,7 +4,7 @@ Elevator project 2020
 Upload and run program:  
 
 -   Open ElevatorMainProgram folder and run ElevatorMainProgram.ino file in Arduino IDE  
--   This will automatically open all the other files in the same file as tabs  
+-   This will automatically open all the other files in the same folder as tabs in the sketch  
 -   Press compile and upload with the servo-lab unit connected to bluetooth or a USB-port    
   
   
