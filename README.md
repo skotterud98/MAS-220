@@ -5,7 +5,7 @@ Upload and run program:
 
 -   Open ElevatorMainProgram folder and run ElevatorMainProgram.ino file in Arduino IDE  
 -   This will automatically open all the other files in the same file as tabs  
--   Press compile and upload with the servo-lab unit connected to bluetooth or a USB-port  
+-   Press compile and upload with the servo-lab unit connected to bluetooth or a USB-port    
   
   
 If encoder positions to the floors needs to be changed to match distance between floors, this can be done inside an array in the private part of the class ElevatorControl in ElevatorMainProgram.ino file. Default is first floor at 0, 2nd floor at 16640 and 3rd floor at 33280.  
