@@ -25,3 +25,4 @@ There is also a "load sensor" which is simulated by the anlalog potmeter knob on
   
 Emergency state is activated by pressing down the left encoder knob when elevator is moving. This is connected with an interrupt entering the emergency state, which stops all movement, clears all requests and moves downwards to the nearest floor.
   
+  A video of demonstration can be seen here: https://www.youtube.com/watch?v=OoV9yVkWrEY&feature=youtu.be
